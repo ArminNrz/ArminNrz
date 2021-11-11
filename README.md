@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ArminNrz
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning CQRS pattern
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Auto Test
 
 <!---
 ArminNrz/ArminNrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
